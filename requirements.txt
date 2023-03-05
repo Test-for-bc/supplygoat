@@ -1,5 +1,5 @@
 pytest
-grpcio_tools==1.41.0
+grpcio_tools==1.41.1
 wrapt==1.13.2
 requests==2.26.0
 urllib3==1.26.7
@@ -31,4 +31,4 @@ yarl==1.7.0
 mysqlclient==2.1.0
 fastapi==0.70.1
 uvicorn==0.16.0
-gunicorn==20.1.0
+gunicorn==19.1.0
